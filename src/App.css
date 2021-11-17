@@ -1,0 +1,10 @@
+.app {
+  text-align: center;
+}
+
+.app_board {
+  width: 800px;
+  display: grid;
+  grid-template-columns: repeat(8, 100px);
+  border: 1px solid black;
+}
